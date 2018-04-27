@@ -24,7 +24,7 @@
      * **Старфлай**: 
        * Магия Старфлай: перезарядка снижена с 30 до **30/25/22/16**.
   * **Новые предметы**:
-  ![]https://github.com/Vid2005/update/blob/master/time_contract.png)
-  ![]https://github.com/Vid2005/update/blob/master/pain_contract.png)
-  ![]https://github.com/Vid2005/update/blob/master/speed_contract.png)
-  ![]https://github.com/Vid2005/update/blob/master/gold_contract.png)
+   * ![] https://github.com/Vid2005/update/blob/master/time_contract.png)
+   * ![] https://github.com/Vid2005/update/blob/master/pain_contract.png)
+   * ![] https://github.com/Vid2005/update/blob/master/speed_contract.png)
+   * ![] https://github.com/Vid2005/update/blob/master/gold_contract.png)
